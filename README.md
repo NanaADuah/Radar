@@ -14,7 +14,7 @@ A Learning Management System created for higher education institutions
 
 ## Authors
 
-- [@NanaADuah](https://www.github.com/NanaADuah)
+- [NanaADuah](https://www.github.com/NanaADuah)
 
 
 ## License
