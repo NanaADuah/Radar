@@ -19,7 +19,7 @@ A Learning Management System created for higher education institutions
 
 ## License
 
-Licensed under [MIT](https://choosealicense.com/licenses/mit/)[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-Copyright © 2021
+- Licensed under [MIT](https://choosealicense.com/licenses/mit/)  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+- Copyright © 2021
 
 
