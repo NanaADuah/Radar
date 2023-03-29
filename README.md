@@ -3,8 +3,8 @@
 ## About
  An educational software platform designed to support teaching, research and collaboration.
  
-## [Author](https://github.com/NanaADuah)
- - Nana Agyemang-Duah
+## Author
+ - [Nana Agyemang-Duah](https://github.com/NanaADuah)
   
 ## License
 Copyright © 2021
