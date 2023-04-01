@@ -6,9 +6,8 @@ class Classes extends Controller
 {
     public function index()
     {
-        if (!Auth::loggedIn()) {
+        if (!Auth::loggedIn()) 
             $this->redirect('login');
-        }
 
         $classes = new Classes_model();
 
@@ -101,9 +100,9 @@ class Classes extends Controller
     public function edit($id = null)
     {
 
-        if (!Auth::loggedIn()) {
+        if (!Auth::loggedIn())
             $this->redirect('login');
-        }
+        
 
         $classes = new Classes_model();
         $errors = array();
